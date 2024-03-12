@@ -14,8 +14,18 @@ body{
 }
 
 header{
-	background-color: rgb(90, 214, 230));
+	background-color: green;
 	height: 100px;
+}
+
+footer{
+	color: #000000;
+	clear: both;
+	background-color: rgb(73, 33, 33);
+	height: 100px;
+	text-align: center;
+	padding: 10px;
+	margin:0 auto;
 }
 
 #div_esquerda{
@@ -37,11 +47,3 @@ header{
 	margin: 0 auto;
 }
 
-footer{
-	color: aliceblue;
-	clear: both;
-	background-color: rgb(73, 33, 33);
-	height: 100px;
-	text-align: center;
-	padding: 10px;
-}
