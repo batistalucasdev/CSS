@@ -14,7 +14,7 @@ body{
 }
 
 header{
-	background-color: green;
+	background-color: rgb(90, 214, 230));
 	height: 100px;
 }
 
@@ -38,7 +38,10 @@ header{
 }
 
 footer{
+	color: aliceblue;
 	clear: both;
-	background-color: blue;
+	background-color: rgb(73, 33, 33);
 	height: 100px;
+	text-align: center;
+	padding: 10px;
 }
