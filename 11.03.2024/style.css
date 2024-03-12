@@ -1,0 +1,39 @@
+p{
+	color: red;
+	font-size: 40px;
+	font-family: Helvetica, Arial;
+}
+
+body{
+	background-color: black;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	background-color: green;
+	height: 100px;
+}
+
+#div_esquerda{
+	background-color: red;
+	min-height: 200px;
+	width: 70%;
+	float: left;
+}
+
+#div_direita{
+	background-color: yellow;
+	height: 200px;
+	width: 30%;
+	float: right;
+}
+
+footer{
+	clear: both;
+	background-color: blue;
+	height: 100px;
+}
